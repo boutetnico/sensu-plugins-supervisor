@@ -1,12 +1,11 @@
 ## Sensu-Plugins-supervisor
 
-[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-supervisor.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-supervisor)
-[![Gem Version](https://badge.fury.io/rb/sensu-plugins-supervisor.svg)](http://badge.fury.io/rb/sensu-plugins-supervisor)
-[![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor)
-[![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor)
-[![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-supervisor.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-supervisor)
+[![Gem Version](https://badge.fury.io/rb/sensu-plugins-supervisor-boutetnico.svg)](https://badge.fury.io/rb/sensu-plugins-supervisor-boutetnico.svg)
+[![Sensu Bonsai Asset](https://img.shields.io/badge/Bonsai-Download%20Me-brightgreen.svg?colorB=89C967&logo=sensu)](https://bonsai.sensu.io/assets/boutetnico/sensu-plugins-supervisor)
 
-## Functionality
+## This is an unofficial fork
+
+This fork is automatically tested, built and published to [RubyGems](https://rubygems.org/gems/sensu-plugins-supervisor-boutetnico/) and [Bonsai](https://bonsai.sensu.io/assets/boutetnico/sensu-plugins-supervisor).
 
 ## Files
  * bin/check-supervisor.rb

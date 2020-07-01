@@ -14,7 +14,6 @@ begin
   if RUBY_VERSION >= '2.4'
     installer.install 'xmlrpc', '~> 0.3'
   end
-
 rescue => e
   p e
   # Exit with a non-zero value to let rubygems something went wrong

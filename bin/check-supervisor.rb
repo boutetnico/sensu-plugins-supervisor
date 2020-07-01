@@ -93,5 +93,5 @@ class CheckSupervisor < Sensu::Plugin::Check::CLI
     critical "\n#{failed_processes.to_a.join("\n")}" unless failed_processes.empty?
 
     ok 'All processes running'
-  end # def run
-end # class CheckSupervisor
+  end
+end
