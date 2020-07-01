@@ -1,5 +1,0 @@
-#!/bin/bash
-
-gem build /usr/src/app/sensu-plugins-supervisor.gemspec
-
-gem install sensu-plugins-supervisor-*.gem
