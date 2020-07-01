@@ -28,3 +28,12 @@ RegexpLiteral:
 
 Style/Documentation:
   Enabled: false
+
+Layout/HashAlignment:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/RescueStandardError:
+  Enabled: false
